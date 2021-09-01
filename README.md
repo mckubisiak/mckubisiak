@@ -1,8 +1,8 @@
-### About Dot Kubisiak 
+## About Dot Kubisiak 
 
-email:mckubisiak@gmail.com
-location: United States 
-https://www.linkedin.com/in/kubisiak/
+#### email: mckubisiak@gmail.com
+#### location: United States 
+#### https://www.linkedin.com/in/kubisiak/
 
 Enthusiastic about collaborating on a team and with individuals!
 Software engineer with experience developinf full stack applications with accessible, long lasting coding in mind.
