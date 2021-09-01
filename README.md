@@ -1,16 +1,18 @@
-### Hi there 👋
+### About Dot Kubisiak 
+
+email:mckubisiak@gmail.com
+location: United States 
+https://www.linkedin.com/in/kubisiak/
+
+Enthusiastic about collaborating on a team and with individuals!
+Software engineer with experience developinf full stack applications with accessible, long lasting coding in mind.
+Enjoys pair and solo coding!
+I get along with those who are supportive and have open communication.
+
+
 
 <!--
-**mckubisiak/mckubisiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.kubisiak.dev/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hidden notes go here
 -->
